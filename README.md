@@ -2,6 +2,9 @@
 
 Data Model:
 
+![image](https://github.com/pavansrikar/SQL-Library-Database-Analysis/assets/91188748/4ab240ab-0c8b-42d1-8470-88e7539246a0)
+
+
 Tasks:
 
 How many copies of the book titled "The Lost Tribe" are owned by the library branch whose name is "Sharpstown"?
